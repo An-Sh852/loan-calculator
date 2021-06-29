@@ -1,0 +1,5 @@
+Lets user calculate (i) Monthly Payment
+                    (ii) Total Interest 
+                    (iii) Total Payment
+
+new feature added - Added Loading-effect for better user experience
